@@ -120,3 +120,6 @@ export GITLAB_TOKEN="<你的 Personal Access Token>"
 - `commit-craft` 與 `git-guardrails` 內建作者的 git 習慣，團隊規範不同時請先閱讀 `SKILL.md` 再使用。
 - 這些 skill 的文字以繁體中文撰寫。
 - `swarm-executor`、`review-swarm` 依賴多代理（subagent）能力，需確認你的環境支援。
+
+## 來源與授權
+各 skill 的出處與改寫說明見 [SOURCES.md](SOURCES.md)。
