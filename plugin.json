@@ -1,0 +1,5 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "my-antigravity-plugin",
+  "description": "My collection of Antigravity skills."
+}
