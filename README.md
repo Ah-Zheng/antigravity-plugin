@@ -6,7 +6,7 @@
 
 ```bash
 # 從 GitHub
-agy plugin install https://github.com/<owner>/<repo>
+agy plugin install https://github.com/Ah-Zheng/antigravity-plugin
 
 # 從本機目錄
 agy plugin install ./antigravity-plugin
